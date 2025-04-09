@@ -67,7 +67,7 @@ Powerful search capabilities across:
 ### Getting Started
 1. Clone this repository
    ```
-   git clone https://github.com/yourusername/travel-manager.git
+   git clone https://github.com/HeminPatel05/travel-manager.git
    cd travel-manager
    ```
 
